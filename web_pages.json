@@ -1,10 +1,10 @@
 {
-"websites":{
-    "google":{
-        "web_page": "www.google.com"
+  "websites": {
+    "google": {
+      "web_page": "https://www.google.com"
     },
-    "netfix":{
-        "web_page": "www.netfilx.com"
+    "netflix": {
+      "web_page": "https://www.netflix.com"
     }
-}
+  }
 }
