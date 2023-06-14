@@ -1,0 +1,10 @@
+{
+"websites":{
+    "google":{
+        "web_page": "www.google.com"
+    },
+    "netfix":{
+        "web_page": "www.netfilx.com"
+    }
+}
+}
